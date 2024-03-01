@@ -250,3 +250,4 @@ C:\Projetos\ProjetosC#\RazorPagesFimes\RazorPagesFimes\bin\Debug\net8.0\runtimes
 C:\Projetos\ProjetosC#\RazorPagesFimes\RazorPagesFimes\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Projetos\ProjetosC#\RazorPagesFimes\RazorPagesFimes\obj\Debug\net8.0\RazorPagesFimes.csproj.AssemblyReference.cache
 C:\Projetos\ProjetosC#\RazorPagesFimes\RazorPagesFimes\obj\Debug\net8.0\RazorPag.A3CE7D3C.Up2Date
+C:\Projetos\ProjetosC#\RazorPagesFimes\RazorPagesFimes\obj\Debug\net8.0\RazorPagesFimes.sourcelink.json
